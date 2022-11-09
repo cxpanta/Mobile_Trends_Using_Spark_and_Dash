@@ -1,5 +1,7 @@
 # Mobile Trends Using Spark and Dash
 
+Forked from William Staudenmeier www.github.com/williamstaudenmeier
+
 This is a light-weight Dash app using Python and Spark on the backend to asyncronously process large files of PlayStore and AppStore data.  
 
 You can get the data files for Google here: https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps (Google-Playstore.csv), and for Apple here: https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps (appleAppData.csv).  
